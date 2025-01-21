@@ -1,0 +1,30 @@
+form{
+    background-color: green;
+    width: 50%;
+    margin: 0 auto;
+    padding: 30px;
+    box-shadow: 12px 8px 4px grey;
+    border-radius: 10px;
+
+}
+legend{
+    font-weight: bolder;
+    text-align: center;
+    font-size: 20px;
+    color: #2038b2;
+    text-shadow: 4px 4px 12px #0fe329;
+}
+input[type=text],input[type=email],input[type=password],input[type=number],input[type=date],input[type=file],textarea,select{
+    width: 100%;
+    height: 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 8px #0fe329;
+    padding-left: 10px;
+}
+button{
+    background-color: chocolate;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+}
